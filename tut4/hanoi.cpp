@@ -49,4 +49,4 @@ void tower(int a, char from, char aux, char to)
 		tower(a - 1, aux, from, to);
 	}
 
-}
+}//end of function
